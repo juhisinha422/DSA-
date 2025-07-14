@@ -43,4 +43,6 @@ Resources to help you structure your responses using STAR method and practice be
 
 ---
 
+https://leetcode.com/discuss/post/5659029/ultimate-dynamic-programming-series-on-l-vpys/
+
 > 🧠 **Tip:** Bookmark this page and work through one resource from each section weekly to stay consistent with your prep!
