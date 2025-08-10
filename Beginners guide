@@ -1,0 +1,112 @@
+Data Structures Roadmap for Beginners:
+
+✅ Phase 0: Prerequisites (1–2 weeks)
+
+Before touching Data Structures, ensure your programming fundamentals are solid. If you already know these, quickly revise them.
+
+📌 Topics
+
+✅ Basic syntax (loops, conditionals, functions, I/O)
+
+✅ Variables & data types
+
+✅ Operators (arithmetic, relational, logical)
+
+✅ Arrays basics
+
+✅ String basics
+
+✅ Time Complexity (Big O notation introduction)
+
+
+📚 Resources
+
+🎯 C++ Basics – Love Babbar Playlist: https://lnkd.in/g7VBRRnj
+
+🎯 Python Basics – freeCodeCamp: https://lnkd.in/gEuhAgrT
+
+🎯 Big-O Notation Made Simple: https://lnkd.in/gSYKgP4k
+
+
+🖊 Practice
+
+🏆 HackerRank – Warmup Problems: https://lnkd.in/gB-Nnp3x
+
+🏆 Codeforces Div 4 Problems: https://lnkd.in/gQwjGnAi
+
+
+
+✅ Phase 1: Core Linear Data Structures (4–6 weeks)
+
+Learn basics, how they work internally, and their complexity.
+
+📌 Topics
+
+1. ✅ Arrays – Traversal, Insertion, Deletion, Prefix Sum, Sliding Window basics
+
+
+2. ✅ Strings – Palindrome check, Reverse, Substrings, String matching basics
+
+
+3. ✅ Linked List – Singly & Doubly, Insert, Delete, Reverse
+
+
+4. ✅ Stack – Using array & linked list, Balanced parentheses, Postfix evaluation
+
+
+5. ✅ Queue – Simple Queue, Circular Queue, Scheduling problems
+
+
+6. ✅ Hashing – HashMap/Dictionary basics, Frequency count problems
+
+
+
+📚 Resources
+
+🎯 DSA Playlist – Apna College: https://lnkd.in/gbY-8PwF
+
+🎯 Array Basics – GeeksforGeeks: https://lnkd.in/gnSEPtBm
+
+🎯 Linked List – GeeksforGeeks: https://lnkd.in/ghfYkMMs
+
+
+🖊 Practice
+
+🏆 LeetCode Easy Problems: https://lnkd.in/giMiUEE9
+
+🏆 Solve 3 problems/day (2 easy, 1 tricky)
+
+
+
+✅ Phase 2: Non-Linear Data Structures (4–6 weeks)
+
+Move to hierarchical and graph-based data structures.
+
+📌 Topics
+
+1. ✅ Trees – Binary Tree basics, DFS & BFS Traversals, Binary Search Tree (BST)
+
+
+2. ✅ Heap – Min-Heap, Max-Heap, Priority Queue usage
+
+
+3. ✅ Graphs – Adjacency List & Matrix, BFS, DFS, Dijkstra’s Shortest Path
+
+
+4. ✅ Advanced Hashing – Collision handling, Sets & Maps
+
+
+
+📚 Resources
+
+🎯 Trees & Graphs – Abdul Bari: https://lnkd.in/gftBUQUr
+
+🎯 Heap – GeeksforGeeks: https://lnkd.in/gmWJ6uvB
+
+
+🖊 Practice
+
+🏆 LeetCode Medium Problems: https://lnkd.in/gQiVDeee
+
+🏆 Graph Problems – Codeforces: https://lnkd.in/gXECKrGp
+
