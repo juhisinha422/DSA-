@@ -1,0 +1,11 @@
+LinkedLists?
+- Used them to build automated workflows that start with a trigger and execute a set of actions or could trigger another workflow!
+
+HashMaps?
+- Used them to optimise a function from O(n²) complexity to O(n) by creating a map of items!
+
+Graphs?
+- Directed Acyclic Graphs (DAG) are the building blocks of Apache Airflow - an open-source ETL tool for data engineering!
+
+DFS?
+- Used it to recursively traverse the folders and files to import the classes into a list and initialize them at startup!
